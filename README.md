@@ -1,4 +1,4 @@
-### Hi, there!  This is Heewon Kim 👋🏼
+### Hi, there!  This is Heewon Kim 🙋🏻‍♀️
 
 <!--
 **heewonkim-dev/heewonkim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
