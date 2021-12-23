@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:36d1dc,100:5b86e5&text=Heewon%20Kim&fontColor=ffffff)
 
-<div align="center"><h3>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim 🙋🏻‍♀️</h3></div>
+<div align="center"><h2>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim 🙋🏻‍♀️</h2></div>
   
 
 <!--
@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Tech Languages Used at least one time ...
+<br />
+
+### 📬 How to reach me
+
+
+<br />
+
+### 🌱 Tech Stacks
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
@@ -27,5 +34,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
 
+<br />
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=transparent&color=0:36d1dc,100:5b86e5&text=Thank%20you!&fontColor=5b86e5)
+### 🐶 Project
+
+
+
+<br />
