@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:36d1dc,100:5b86e5&text=Heewon%20Kim&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:36d1dc,100:5b86e5&text=Heewon%20Kim&fontColor=ffffff)
 
 <div align="center"><h2>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim 🙋🏻‍♀️</h2></div>
   
