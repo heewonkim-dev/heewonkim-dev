@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8)
-### 🙋🏻‍♀️ Hello, there!  This is Heewon Kim 🙋🏻‍♀️
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:36d1dc,100:5b86e5&text=Heewon%20Kim&fontColor=ffffff)
+
+<div align="center"><h3>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim 🙋🏻‍♀️</h3></div>
+  
 
 <!--
 **heewonkim-dev/heewonkim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +28,4 @@ Here are some ideas to get you started:
 
 
 
-<!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> -->
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=300&color=0:EEFF00,100:a82da8)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=transparent&color=0:36d1dc,100:5b86e5&text=Thank%20you!&fontColor=5b86e5)
