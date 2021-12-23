@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8)
 ### 🙋🏻‍♀️ Hello, there!  This is Heewon Kim 🙋🏻‍♀️
 
 <!--
@@ -26,3 +27,5 @@ Here are some ideas to get you started:
 
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> -->
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=300&color=0:EEFF00,100:a82da8)
