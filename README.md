@@ -7,7 +7,10 @@
 
 
 ### 📬 How to reach me
-* **`Email`** : imheewonkim1999@gmail.com
+* <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> : imheewonkim1999@gmail.com
+* <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/> : [@heewonkim-dev](https://github.com/heewonkim-dev)
+
+
 
 <br />
 
