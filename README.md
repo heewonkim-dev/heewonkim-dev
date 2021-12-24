@@ -20,7 +20,6 @@
 ### 🐶 Team Project
 * `자세한 건 여기로!` : [🐶 withpuppy](https://github.com/codestates/withpuppy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heewonkim-dev&repo=withpuppy)](https://github.com/heewonkim-dev/withpuppy)
 
 
 
