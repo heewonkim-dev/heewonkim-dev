@@ -1,15 +1,13 @@
 ![twitter_header_photo_2](https://user-images.githubusercontent.com/85002287/147315248-fc0bc2bd-e4ba-4077-a817-fb752e3d4e05.png)
 
-<div align="center"><h3>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim :)</h3>
-  
-  <br />
+<div align="center"><h3>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim :)</h3>  
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heewonkim-dev&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
 
 
 ### 📬 How to reach me
-
+* **`Email`** : imheewonkim1999@gmail.com
 
 <br />
 
