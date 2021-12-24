@@ -1,4 +1,4 @@
-![twitter_header_photo_2](https://user-images.githubusercontent.com/85002287/147315248-fc0bc2bd-e4ba-4077-a817-fb752e3d4e05.png)
+![twitter_header_photo_2](https://user-images.githubusercontent.com/85002287/147316851-cd810fbf-edb0-4b32-b520-345683b2e5b0.png)
 
 <div align="center"><h3>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim :)</h3>  
   
