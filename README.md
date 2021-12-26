@@ -1,28 +1,23 @@
-![twitter_header_photo_2](https://user-images.githubusercontent.com/85002287/147316851-cd810fbf-edb0-4b32-b520-345683b2e5b0.png)
-
-<div align="center"><h3>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim :)</h3>  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=200&section=header&text=Heewon%20Kim&fontSize=50&animation=fadeIn&fontAlignY=30&desc=🙋🏻‍♀️%20Annyeong!%20This%20is%20Frontend%20Developer%20Heewon%20Kim%20!&descAlignY=50&descAlign=50&fontColor=434656)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heewonkim-dev&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-</div>
+## 
+### Contact
+📧 **`email`**: imheewonkim1999@gmail.com <br/>
+🤖 **`github`**: @heewonkim-dev <Br/>
 
+> _Currently working as a **frontend developer** at **wehuddling** (Seoul, South KR)._
+## 
+### Stacks
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <Br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Atom&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>
 
-### 📬 How to reach me
-> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> : `imheewonkim1999@gmail.com`
->
-> <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/> : [`@heewonkim-dev`](https://github.com/heewonkim-dev)
-
-### 🌱 Stacks
-
-|**Part**|**Stacks**|
-|:---|:---|
-|**Common**|<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="figma" src ="https://img.shields.io/badge/figma-6F1DF4.svg?&style=for-the-badge&logo=figma&logoColor=white"/>|
-|**Tech**|<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/> <img alt="HTML" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="Storybook" src ="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>|
-
-### 🐶 Team Project
-> `자세한 건 여기로!` : [🐶 withpuppy](https://github.com/codestates/withpuppy)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heewonkim-dev&repo=withpuppy&theme=algolia)](https://github.com/heewonkim-dev/withpuppy)
-
-
-
+##
 <br />
+
