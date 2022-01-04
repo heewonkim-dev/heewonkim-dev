@@ -8,9 +8,7 @@
 
 
 ### 📬 How to reach me
-> <a href="mailto:imheewonkim1999@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-imheewonkim1999@gmail.com-EDE9D0.svg?&style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335"/></a>
-> 
-> <a href="https://github.com/heewonkim-dev"><img alt="Github" src ="https://img.shields.io/badge/Github-@heewonkimdev-EDE9D0.svg?&style=for-the-badge&logo=Github&logoColor=white&labelColor=181717"/></a>
+<a href="mailto:imheewonkim1999@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-imheewonkim1999@gmail.com-EDE9D0.svg?&style=for-the-badge&logo=Gmail&logoColor=white&labelColor=EA4335"/></a> &#160; &#160; <a href="https://github.com/heewonkim-dev"><img alt="Github" src ="https://img.shields.io/badge/Github-@heewonkimdev-EDE9D0.svg?&style=for-the-badge&logo=Github&logoColor=white&labelColor=181717"/></a>
 
 ### 🌱 Stacks
 
