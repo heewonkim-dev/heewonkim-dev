@@ -18,7 +18,7 @@
 |**Tech**|<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/> <img alt="HTML" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/> <img alt="Storybook" src ="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>|
 
 ### 🐶 Team Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heewonkim-dev&repo=withpuppy&theme=algolia)](https://github.com/codestates/withpuppy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heewonkim-dev&repo=withpuppy&theme=algolia)](https://github.com/codestates/withpuppy) &#160;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heewonkim-dev&repo=myresume&theme=algolia)](https://github.com/codestates/myresume)
 
 
