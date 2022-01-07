@@ -21,7 +21,7 @@
 > 자세한 건 여기로! : 
 > [🐶 withpuppy team repository](https://github.com/codestates/withpuppy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heewonkim-dev&repo=withpuppy&theme=algolia)](https://github.com/heewonkim-dev/withpuppy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heewonkim-dev&repo=withpuppy&theme=algolia)](https://github.com/codestates/withpuppy)
 
 
 
