@@ -2,6 +2,8 @@
  -->
  ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Heewon%20Kim&color=0:36d1dc,100:5b86e5&fontColor=434656&fontAlignY=40)
 <div align="center"><h3>🙋🏻‍♀️ Hello, there! This is Frontend Developer Heewon Kim :)</h3>  
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23006EFF&title_bg=%23555555&icon=clyp.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heewonkim-dev&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
