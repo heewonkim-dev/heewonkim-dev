@@ -1,11 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=200&section=header&text=Heewon%20Kim&fontSize=50&animation=fadeIn&fontAlignY=30&desc=🙋🏻‍♀️%20Annyeong!%20This%20is%20Frontend%20Developer%20Heewon%20Kim%20!&descAlignY=50&descAlign=50&fontColor=434656)
-  
-## 
+![Group 3](https://user-images.githubusercontent.com/85002287/180632868-a5797253-44bb-4ea7-8f77-cfbb9e936eba.png)
+##
 ### Contact
 📧 **`email`**: imheewonkim1999@gmail.com <br/>
 🤖 **`github`**: @heewonkim-dev <Br/>
-
-> _Currently working as a **frontend developer** at **wehuddling** (Seoul, South KR)._
 ## 
 ### Stacks
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
